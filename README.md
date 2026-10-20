@@ -1,23 +1,34 @@
-<!-- 
-  developer: Bryam Assolini
-  specialization: AI integration, full-stack development, mobile, cloud
-  skills: python, typescript, react, flutter, nodejs, aws, gcp, supabase, firebase, llm, rag, automation
-  availability: consulting, freelance
-  location: Francisco Beltrão, PR, Brazil
+<!--
+developer: Bryam Assolini
+focus: applied AI research, LLM systems, retrieval-augmented generation (RAG), full-stack development
+location: Francisco Beltrao, PR, Brazil
+contact: linkedin.com/in/bryam-assolini-a8b958190
 -->
 
 # Bryam Assolini
 
-**Desenvolvedor Full-Stack especializado em Integração de IA · Web, Mobile e Cloud**  
-📍 Francisco Beltrão, PR — Fundador da [@mentive-solutions](https://github.com/mentive-solutions)
+**AI engineer and full-stack developer** building LLM-based systems, retrieval-augmented generation (RAG) pipelines and applied machine learning products.
+
+📍 Francisco Beltrão, PR, Brazil · Founder of [@mentive-solutions](https://github.com/mentive-solutions)
 
 ---
 
-## O que eu faço
+## Research interests
 
-- 🤖 **Integração de IA em sistemas reais** — conecto LLMs, automação e análise de dados a produtos existentes
-- 🏗️ **Desenvolvimento Full-Stack e Mobile** — web com React/TypeScript, mobile com Flutter, APIs com Python e Node.js
-- ☁️ **Arquitetura em Nuvem** — deploys e integrações com AWS, GCP, Supabase e Firebase
+- Retrieval-augmented generation over large, interconnected knowledge bases
+- Grounded LLM answers: retrieval quality, source attribution and failure analysis
+- Integrating LLMs and automation into production software
+
+---
+
+## Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [warframe-vault](https://github.com/BryamFLA/warframe-vault) | Structured Markdown knowledge base of deeply interlinked game data, used as the corpus for RAG experiments | Markdown · RAG |
+| warframe-agent *(private)* | RAG assistant that answers questions over the vault | Python · LLM |
+| [price-hunter-bot](https://github.com/BryamFLA/price-hunter-bot) | Telegram bot that searches supermarket product prices | Python |
+| [rio2c-agenda](https://github.com/BryamFLA/rio2c-agenda) | Interactive timeline for the RIO2C 2026 thematic tracks | TypeScript |
 
 ---
 
@@ -28,23 +39,13 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## Projetos em destaque
+## Contact
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [warframe-bot](https://github.com/BryamFLA/warframe-bot) | RAG system com análise de resposta sobre base de conhecimento complexa | Python · LLM |
-| [warframe-vault](https://github.com/BryamFLA/warframe-vault) | Base de conhecimento estruturada para dados profundamente interconectados | Markdown · RAG |
-
----
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/bryam-assolini-a8b958190/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryam-assolini-a8b958190/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bryamafl@gmail.com)
